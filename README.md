@@ -1,2 +1,4 @@
-# pp-lab-6
+# pp-lab-6 
+Zuzanna Raszka
+nr albumu: 58435
  
